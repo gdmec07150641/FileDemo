@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FileDemo</string>
+    <string name="phone_dicectory">PhoneDirectory</string>
+    <string name="external_storage_public_directory">ExternalStoragePublicDirectory</string>
+    <string name="external_storage_directory">ExternalStorageDirectory</string>
+    <string name="data_storage">DataStorage</string>
+    <string name="download_cache_directoyu">DownloadCacheDirectory</string>
+    <string name="root_directory">RootDirectory</string>
+</resources>
